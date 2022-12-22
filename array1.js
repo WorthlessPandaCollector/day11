@@ -80,3 +80,5 @@ console.log(numArrayDesc);
 
 const lowerCaseArray = newArray.map(a => a.toLowerCase());
 console.log(lowerCaseArray);
+
+
